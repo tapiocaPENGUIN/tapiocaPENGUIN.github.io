@@ -2,6 +2,7 @@
 
 
 # Velociraptor
+[Velociraptor Football](http://velociraptorfootball.me/frontEnd/html/home.html)
 
 A JavaScript web-based application that is meant to teach American Football. It can be used
 both by newcomers and by Football coaches and teams to break down plays and strategies.
@@ -32,6 +33,4 @@ Links to Dependencies:
 * https://getbootstrap.com/
 * http://www.pixijs.com/
 
-## Visit the site
 
-[Velociraptor Football](http://velociraptorfootball.me/frontEnd/html/home.html)
