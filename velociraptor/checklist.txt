@@ -1,0 +1,42 @@
+*** = low priority
+
+Ball object
+	@ - faster travel speed
+	@ - attaches to player object
+
+QB Object
+	@ - throws ball
+	@ - hangs in pocket
+	- determines sack prob ***
+	@ - throws at certain time
+	@ - needs to predict travel time and route
+	@ - hands off if rb in range
+	@ - switches to pass play if rb too far away on run play
+	- determines catch prob***
+	- searches for rand receiver
+	- searches players for best receiver***
+
+RB Object
+	@ - might take ball
+	@ - runs route
+
+Receiver Object
+	@ - can catch ball
+
+
+Saftey Object
+	- 
+
+Defensive_Back_Zone
+	- needs to choose which man in range he chases
+
+Offensive_Lineman Object
+	- needs to block
+
+Defensive_Lineman Object
+	- needs to be blocked
+	- goes for sack ***
+
+extension class for recievers
+	- needs to catch ball
+	- determines throw success
