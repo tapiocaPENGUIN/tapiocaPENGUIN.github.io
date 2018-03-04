@@ -33,7 +33,5 @@ Links to Dependencies:
 * http://www.pixijs.com/
 
 ## Visit the site
-http://velociraptorfootball.me/frontEnd/html/home.html
 
-http://velociraptorfootball.me/frontEnd/html/home.html - automatic!
 [Velociraptor Football](http://velociraptorfootball.me/frontEnd/html/home.html)
