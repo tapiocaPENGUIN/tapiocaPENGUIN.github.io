@@ -1,6 +1,6 @@
 
 
-# [Velociraptor Football](http://velociraptorfootball.me/frontEnd/html/home.html)
+# [Velociraptor Football](http://velociraptorfootball.me/frontEnd/html/home.html) - Visit our site!
 
 A JavaScript web-based application that is meant to teach American Football. It can be used
 both by newcomers and by Football coaches and teams to break down plays and strategies.
