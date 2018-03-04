@@ -1,5 +1,3 @@
-# tapiocaPEGUIN.github.io
-
 
 # Velociraptor
 [Velociraptor Football](http://velociraptorfootball.me/frontEnd/html/home.html)
